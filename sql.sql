@@ -1,0 +1,8 @@
+CREATE TABLE texto(
+    id INT NOT NULL AUTO_INCREMENT,
+    texto_c MEDIUMTEXT NOT NULL,
+    PRIMARY KEY(id)
+);
+
+
+
